@@ -1,7 +1,7 @@
 # Lab 3 | Monitoring, Logging & DevSecOps
 
 **DevOps and Automation Lab**  
-**Student:** Krish Punia | **GitHub:** `KrishPunia22`  
+**Student:** Tanvi Basist | **GitHub:** `Tanvi20045`  
 
 
 An evidence-backed record of infrastructure configuration, local provisioning, monitoring, centralized logging, pipeline security scanning, feature flags, load testing and browser automation.
